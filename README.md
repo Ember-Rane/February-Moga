@@ -1,6 +1,6 @@
 # February 2019 - Moga
 
-4 Weeks Timeline
+4 Weeks Timeline  
 Code 1 - Implement a portal that spawns an NPC  
 Code 2 - Implement NPC AI  
 Code 3 - Improve NPC AI  
