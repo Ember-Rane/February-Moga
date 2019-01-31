@@ -2,9 +2,9 @@
 
 This is a game about a crab who travels through time, sorta.  
 
-Notes: 
-To setup an Unreal Engine git repository: 
-
+Notes:   
+To setup an Unreal Engine git repository:   
+  
 1) Install and prepare git on your desktop
 2) Install and prepare git-LFS on your desktop
 - https://git-lfs.github.com/ (Step 1)
@@ -13,7 +13,7 @@ To setup an Unreal Engine git repository:
 - https://git-lfs.github.com/ (Step 2)
 - `git lfs track *.uasset`
 5) Add in the following to the .gitattributes file in the repo  
-
+ 
 ```
 # 3D models
 *.3dm filter=lfs diff=lfs merge=lfs -text
