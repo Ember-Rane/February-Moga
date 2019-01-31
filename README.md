@@ -1,5 +1,25 @@
 # February 2019 - Moga
 
+4 Weeks Timeline
+Code 1 - Implement a portal that spawns an NPC  
+Code 2 - Implement NPC AI  
+Code 3 - Improve NPC AI  
+Code 4 - Bug Fixes  
+
+Animation 1 - Crab left, right, jump, fall, blendspaces  
+Animation 2 - Attack animations, Puzzle solving animations  
+Animation 3 - ?  
+Animation 4 - Bug fix/upgrades/smoothing out  
+
+Level Design 1 - Camera bugs worked out & Platforms generated  
+Level Design 2 - Add in background assets/change material colors etc  
+Level Design 3 - Have assets dynamically render/load and remove as level moves  
+Level Design 4 - UI addition of time  
+
+
+-------------------------------------------------------------------
+
+
 This is a game about a crab who travels through time, sorta.  
 
 Notes:   
