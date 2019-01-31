@@ -143,10 +143,10 @@ DerivedDataCache/*
 ```
 7) Commit your changes to .gitignore and .gitattributes
 8) Check all the files to make sure they are being tracked correctly. Add one location at a time and check in the `git status` results that it shows (LFS -> ###) for the LFS files and (Git -> ###) for the Git files. 
-- git lfs status
-- git add folderpath\filepath\*
-- git lfs status
+- `git lfs status`
+- `git add folderpath\filepath\*`
+- `git lfs status`
 Make sure that all your .uasset and .umap files appear in the 'Git LFS objects to be committed' section. Make sure all over files are not. 
 9) Commit your git LFS changes through terminal. 
-- git commit -m "Setting up git LFS"
+- `git commit -m "Setting up git LFS"`
 10) Push
