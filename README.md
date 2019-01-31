@@ -1,4 +1,6 @@
-# February19
+# February 2019 - Moga
+
+This is a game about a crab who travels through time, sorta.  
 
 Notes: 
 To setup an Unreal Engine git repository: 
