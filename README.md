@@ -13,7 +13,7 @@ Animation 4 - Bug fix/upgrades/smoothing out
 
 Level Design 1 - Camera bugs worked out & Platforms created & Background assets  
 Level Design 2 - Extend levels to contain collectables & to continue on for 3 levels  
-Level Design 3 - Work out playability for multiple levels and multiple paths 
+Level Design 3 - Work out playability for multiple levels and multiple paths   
 Level Design 4 - Have assets dynamically render/load and remove as level moves 
    
 Misc 1 - Add music, timer screen   
