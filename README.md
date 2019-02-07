@@ -7,7 +7,7 @@ Code 3 - Implement NPC AI
 Code 4 - Bug Fixes  
 
 Animation 1 - Crab left, right, jump, fall, blendspaces  
-Animation 2 - Smooth out animation transitions
+Animation 2 - Smooth out animation transitions   
 Animation 3 - Puzzle solving animations (press button)  
 Animation 4 - Bug fix/upgrades/smoothing out  
 
