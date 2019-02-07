@@ -15,11 +15,11 @@ Level Design 1 - Camera bugs worked out & Platforms created & Background assets
 Level Design 2 - Extend levels to contain collectables & to continue on for 3 levels  
 Level Design 3 - Work out playability for multiple levels and multiple paths 
 Level Design 4 - Have assets dynamically render/load and remove as level moves 
-
-Misc 1 - Add music, timer screen
-Misc 2 - Add death upon touch ground, needs restart level/game UI
-Misc 3 - < add button that makes a platform rotate. >
-Misc 4 - 
+   
+Misc 1 - Add music, timer screen   
+Misc 2 - Add death upon touch ground, needs restart level/game UI   
+Misc 3 - < add button that makes a platform rotate. >   
+Misc 4 -    
 
 
 -------------------------------------------------------------------
