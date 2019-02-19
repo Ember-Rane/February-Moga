@@ -1,4 +1,35 @@
-# February 2019 - Moga
+# February 2019 - Moga  
+Status: In Progress  
+In Association With: https://github.com/GamesByMoonlight  
+
+### Lead Design  
+Ember-Rane
+ 
+### Lead Programmer  
+DanilaFoxPro
+
+### UI  
+OccidoVirus
+
+### Programming  
+OccidoVirus  
+DanilaFoxPro  
+Ember-Rane
+
+### Animation
+Ember-Rane
+DanilaFoxPro
+
+### Music  
+Ragnamus
+CptSmorter
+
+### Assets  
+Purchased from Unreal Marketplace
+
+
+-------------------------------------------------------------------
+
 
 4 Weeks Timeline  
 Code 1 - Implement a portal that teleports the player to next level  
