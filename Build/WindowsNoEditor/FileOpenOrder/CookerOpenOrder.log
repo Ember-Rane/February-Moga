@@ -1,0 +1,766 @@
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Meshes/SK_Crab_01_Skeleton.uasset" 0
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Idle_Break_03.uasset" 1
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Interacting_Montage.uasset" 2
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Sit_End.uasset" 3
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Sit_Start.uasset" 4
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Landing_Montage.uasset" 5
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Idle.uasset" 6
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Walk_Left.uasset" 7
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Walk_Right.uasset" 8
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Walk_blend.uasset" 9
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 10
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Idle_Break_01.uasset" 11
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Idle_Break_02.uasset" 12
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Idle_Montage.uasset" 13
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/_UI/UI_DeathScreen.uasset" 14
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/_UI/UI_HUD.uasset" 15
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/_UI/UI_WinScreen.uasset" 16
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Materials/M_Black.uasset" 17
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Meshes/Clothing/a_hat.uasset" 18
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Textures/T_Crab_01_BC.uasset" 19
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Textures/T_Crab_01_N.uasset" 20
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Textures/T_Crab_01_ORM.uasset" 21
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Materials/M_Crab_01.uasset" 22
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Materials/MI_Crab_01.uasset" 23
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Meshes/SK_Crab01_PhysicsAsset.uasset" 24
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Meshes/SK_Crab_01.uasset" 25
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Crab_Player.uasset" 26
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Crab_AnimBlueprint.uasset" 27
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/CodyTest_Crab_Player.uasset" 28
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 29
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Collectables/Materials/MAT_Gem.uasset" 30
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 31
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 32
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 33
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 34
+"../../../Engine/Content/BasicShapes/Cube.uasset" 35
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Geometry/Meshes/CubeMaterial.uasset" 36
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Geometry/Meshes/1M_Cube.uasset" 37
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Collectables/BP_Gem.uasset" 38
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Death_02.uasset" 39
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/idle_left_blend.uasset" 40
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Jump_Montage.uasset" 41
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Blueprints/BP_GT_decal.uasset" 42
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 43
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 44
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 45
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TransformToZVector.uasset" 46
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 47
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 48
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.uasset" 49
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ParallaxOcclusionMapping.uasset" 50
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 51
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 52
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 53
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_CyberCube/CyberWall_emissive.uasset" 54
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Textures/T_Baseline_bc.uasset" 55
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Textures/T_Baseline_n.uasset" 56
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/MasterMaterials/M_GT_Basic.uasset" 57
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/brick_ancientDiagonal/T_AncientBrickDiagonalWall_basecolor.uasset" 58
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/brick_ancientDiagonal/T_AncientBrickDiagonalWall_height.uasset" 59
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/brick_ancientDiagonal/T_AncientBrickDiagonalWall_mrao.uasset" 60
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/brick_ancientDiagonal/T_AncientBrickDiagonalWall_normal.uasset" 61
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_brick_ancientDiagonal_Inst.uasset" 62
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Brick_BathStone/T_BathStone_basecolor.uasset" 63
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Brick_BathStone/T_BathStone_height.uasset" 64
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Brick_BathStone/T_BathStone_mrao.uasset" 65
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Brick_BathStone/T_BathStone_normal.uasset" 66
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Brick_BathStone.uasset" 67
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Brick_chicagoStyle/T_ChicagoStyleBrick_basecolor.uasset" 68
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Brick_chicagoStyle/T_ChicagoStyleBrick_height.uasset" 69
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Brick_chicagoStyle/T_ChicagoStyleBrick_mrao.uasset" 70
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Brick_chicagoStyle/T_ChicagoStyleBrick_normal.uasset" 71
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Brick_chicagoStyleInst.uasset" 72
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Brick_MixedCastleWall/T_LargeBrickMixedCastleWall_basecolor.uasset" 73
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Brick_MixedCastleWall/T_LargeBrickMixedCastleWall_height.uasset" 74
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Brick_MixedCastleWall/T_LargeBrickMixedCastleWall_mrao.uasset" 75
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Brick_MixedCastleWall/T_LargeBrickMixedCastleWall_normal.uasset" 76
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Brick_MixedCastleWall_Inst.uasset" 77
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/brick_WallLightGrout/T_BrickWallWithLightGrout_basecolor.uasset" 78
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/brick_WallLightGrout/T_BrickWallWithLightGrout_height.uasset" 79
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/brick_WallLightGrout/T_BrickWallWithLightGrout_mrao.uasset" 80
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/brick_WallLightGrout/T_BrickWallWithLightGrout_normal.uasset" 81
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_brick_WallLightGrout_Inst.uasset" 82
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Concrete_FlatSurface/Concrete_FlatSurface_BaseColor.uasset" 83
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Concrete_FlatSurface/Concrete_FlatSurface_Height.uasset" 84
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Concrete_FlatSurface/Concrete_FlatSurface_MRAO.uasset" 85
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Concrete_FlatSurface/Concrete_FlatSurface_Normal.uasset" 86
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Concrete_FlatSurface_Inst.uasset" 87
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_ClumpySnow/T_ClumpySnow_basecolor.uasset" 88
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_ClumpySnow/T_ClumpySnow_height.uasset" 89
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_ClumpySnow/T_ClumpySnow_mrao.uasset" 90
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_ClumpySnow/T_ClumpySnow_normal.uasset" 91
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Ground_ClumpySnow_Inst.uasset" 92
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_DirtBrownTan/T_BrownTanDirt_basecolor.uasset" 93
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_DirtBrownTan/T_BrownTanDirt_height.uasset" 94
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_DirtBrownTan/T_BrownTanDirt_mrao.uasset" 95
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_DirtBrownTan/T_BrownTanDirt_normal.uasset" 96
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Ground_DirtBrownTan_Inst.uasset" 97
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_FloodedMud/T_FloodedMudGround_basecolor.uasset" 98
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_FloodedMud/T_FloodedMudGround_height.uasset" 99
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_FloodedMud/T_FloodedMudGround_mrao.uasset" 100
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_FloodedMud/T_FloodedMudGround_normal.uasset" 101
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Ground_FloodedMud_Inst.uasset" 102
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_GrassThickGreen/T_ThickGreenGrass_basecolor.uasset" 103
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_GrassThickGreen/T_ThickGreenGrass_height.uasset" 104
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_GrassThickGreen/T_ThickGreenGrass_mrao.uasset" 105
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_GrassThickGreen/T_ThickGreenGrass_normal.uasset" 106
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Ground_GrassThickGreen_Inst.uasset" 107
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_MuddyGrass/T_MuddyGrass_basecolor.uasset" 108
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_MuddyGrass/T_MuddyGrass_height.uasset" 109
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_MuddyGrass/T_MuddyGrass_mrao.uasset" 110
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_MuddyGrass/T_MuddyGrass_normal.uasset" 111
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Ground_MuddyGrass_Inst.uasset" 112
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_BrushedSteel/T_BrushedSteelMetal_basecolor.uasset" 113
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_BrushedSteel/T_BrushedSteelMetal_height.uasset" 114
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_BrushedSteel/T_BrushedSteelMetal_mrao.uasset" 115
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_BrushedSteel/T_BrushedSteelMetal_normal.uasset" 116
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Metal_BrushedSteel_Inst.uasset" 117
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_CyberCube/T_CyberWall_basecolor.uasset" 118
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_CyberCube/T_CyberWall_height.uasset" 119
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_CyberCube/T_CyberWall_mrao.uasset" 120
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_CyberCube/T_CyberWall_normal.uasset" 121
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Metal_CyberCube_Inst.uasset" 122
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_DiamondPlateSciFi/T_MetalSciFiDiamondPlateGridRusty_basecolor.uasset" 123
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_DiamondPlateSciFi/T_MetalSciFiDiamondPlateGridRusty_height.uasset" 124
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_DiamondPlateSciFi/T_MetalSciFiDiamondPlateGridRusty_mrao.uasset" 125
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_DiamondPlateSciFi/T_MetalSciFiDiamondPlateGridRusty_normal.uasset" 126
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Metal_DiamondPlateSciFi_Inst.uasset" 127
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_Gold/T_GoldMetal_basecolor.uasset" 128
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_Gold/T_GoldMetal_height.uasset" 129
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_Gold/T_GoldMetal_mrao.uasset" 130
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_Gold/T_GoldMetal_normal.uasset" 131
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Metal_Gold_Inst.uasset" 132
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_LeadRough/T_RoughLeadMetal_basecolor.uasset" 133
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_LeadRough/T_RoughLeadMetal_height.uasset" 134
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_LeadRough/T_RoughLeadMetal_mrao.uasset" 135
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_LeadRough/T_RoughLeadMetal_normal.uasset" 136
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Metal_LeadRough_Inst.uasset" 137
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_ReinforcedGridWall/T_ReinforcedMetalGridWall_basecolor.uasset" 138
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_ReinforcedGridWall/T_ReinforcedMetalGridWall_height.uasset" 139
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_ReinforcedGridWall/T_ReinforcedMetalGridWall_mrao.uasset" 140
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_ReinforcedGridWall/T_ReinforcedMetalGridWall_normal.uasset" 141
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Metal_ReinforcedGridWall_Inst.uasset" 142
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_RustedSolid/RustedSolidMetal_basecolor.uasset" 143
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_RustedSolid/RustedSolidMetal_height.uasset" 144
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_RustedSolid/RustedSolidMetal_mrao.uasset" 145
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_RustedSolid/RustedSolidMetal_normal.uasset" 146
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Metal_RustedSolid_Inst.uasset" 147
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_sciFiCurveyWall/T_MetalSciFiCurveWall_basecolor.uasset" 148
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_sciFiCurveyWall/T_MetalSciFiCurveWall_height.uasset" 149
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_sciFiCurveyWall/T_MetalSciFiCurveWall_mrao.uasset" 150
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_sciFiCurveyWall/T_MetalSciFiCurveWall_normal.uasset" 151
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Metal_sciFiCurveyWall_Inst.uasset" 152
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_SciFiMetalWalkWayPowered/SciFiIndustrialPipesAndVentsWalkway_basecolor.uasset" 153
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_SciFiMetalWalkWayPowered/SciFiIndustrialPipesAndVentsWalkway_height.uasset" 154
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_SciFiMetalWalkWayPowered/SciFiIndustrialPipesAndVentsWalkway_mrao.uasset" 155
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_SciFiMetalWalkWayPowered/SciFiIndustrialPipesAndVentsWalkway_normal.uasset" 156
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Metal_SciFiMetalWalkWayPowered_Inst.uasset" 157
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Rock_JaggedCaveWall/T_JaggedCaveWall_basecolor.uasset" 158
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Rock_JaggedCaveWall/T_JaggedCaveWall_height.uasset" 159
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Rock_JaggedCaveWall/T_JaggedCaveWall_mrao.uasset" 160
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Rock_JaggedCaveWall/T_JaggedCaveWall_normal.uasset" 161
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Rock_HoneycombAsteroid_Inst.uasset" 162
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Tile_ClassicSquare/ClassicSquareTiles_basecolor.uasset" 163
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Tile_ClassicSquare/T_ClassicSquareTiles_height.uasset" 164
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Tile_ClassicSquare/T_ClassicSquareTiles_mrao.uasset" 165
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Tile_ClassicSquare/T_ClassicSquareTiles_normal.uasset" 166
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Tile_ClassicSquare_Inst.uasset" 167
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Tile_WoodMetalOffset/T_WoodAndSteelTiles_basecolor.uasset" 168
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Tile_WoodMetalOffset/T_WoodAndSteelTiles_height.uasset" 169
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Tile_WoodMetalOffset/T_WoodAndSteelTiles_mrao.uasset" 170
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Tile_WoodMetalOffset/T_WoodAndSteelTiles_normal.uasset" 171
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Tile_WoodMetalOffset_Inst.uasset" 172
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Wood_InterlockingFloor/Wood_InterlockingFloor_BaseColor.uasset" 173
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Wood_InterlockingFloor/Wood_InterlockingFloor_Height.uasset" 174
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Wood_InterlockingFloor/Wood_InterlockingFloor_MRAO.uasset" 175
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Wood_InterlockingFloor/Wood_InterlockingFloor_Normal.uasset" 176
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Wood_InterlockingFloor_Inst.uasset" 177
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/wood_JFfantasyWoodPlanksNailedClean/T_FantasyWoodPlanksNailed_basecolor.uasset" 178
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/wood_JFfantasyWoodPlanksNailedClean/T_FantasyWoodPlanksNailed_height.uasset" 179
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/wood_JFfantasyWoodPlanksNailedClean/T_FantasyWoodPlanksNailed_mrao.uasset" 180
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/wood_JFfantasyWoodPlanksNailedClean/T_FantasyWoodPlanksNailed_normal.uasset" 181
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_wood_JFfantasyWoodPlanksNailedClean_Inst.uasset" 182
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Wood_PlankClean/Wood_GeofwoodenPlankClean_BaseColor.uasset" 183
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Wood_PlankClean/Wood_GeofwoodenPlankClean_Height.uasset" 184
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Wood_PlankClean/Wood_GeofwoodenPlankClean_MRAO.uasset" 185
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Wood_PlankClean/Wood_GeofwoodenPlankClean_Normal.uasset" 186
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Wood_PlankClean_Inst.uasset" 187
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 188
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 189
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/HeightLerp.uasset" 190
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/MasterMaterials/M_GT_Blend.uasset" 191
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 192
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 193
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SmoothThreshold.uasset" 194
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/MasterMaterials/M_GT_Decal.uasset" 195
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 196
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 197
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/MasterMaterials/M_GT_Landscape.uasset" 198
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Textures/T_shade.uasset" 199
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 200
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Interactables/BaseClasses/BP_Activatable.uasset" 201
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Interactables/BP_ALight.uasset" 202
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 203
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Textures/T_Colorlookup_Summer.uasset" 204
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Master_Materials/Without_VertexColors/M_Master_LowPoly_GrassWind.uasset" 205
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Textures/T_Colorlookup_Fall.uasset" 206
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Fall/Without_VertexColors/M_LowPoly_GrassWind_Inst_Fall.uasset" 207
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Master_Materials/Without_VertexColors/M_Master_LowPoly.uasset" 208
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Textures/T_Colorlookup_Vertcolors_Fall.uasset" 209
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Fall/Without_VertexColors/M_LowPoly_Inst_Fall.uasset" 210
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Textures/T_Mask_Snow.uasset" 211
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Master_Materials/Without_VertexColors/M_Master_LowPoly_TreesWind.uasset" 212
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Fall/Without_VertexColors/M_LowPoly_TreesWind_Inst_Fall.uasset" 213
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Textures/T_Colorlookup_Spring.uasset" 214
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Spring/Without_VertexColors/M_LowPoly_GrassWind_Inst_Spring.uasset" 215
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 216
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Spring/Without_VertexColors/M_LowPoly_Inst_Spring.uasset" 217
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Spring/Without_VertexColors/M_LowPoly_TreesWind_Inst_Spring.uasset" 218
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Summer/Without_VertexColors/M_LowPoly_GrassWind_Inst_Summer.uasset" 219
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Summer/Without_VertexColors/M_LowPoly_Inst_Summer.uasset" 220
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Summer/Without_VertexColors/M_LowPoly_TreesWind_Inst_Summer.uasset" 221
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Textures/T_Colorlookup_Winter.uasset" 222
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Master_Materials/Snow/M_Master_LowPoly_Snow_NoVertColors.uasset" 223
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Winter/Snow/M_LowPoly_Snow_NoVertColors_Inst_Winter.uasset" 224
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Winter/Snow/M_Snow_Basic.uasset" 225
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Winter/Without_VertexColors/M_LowPoly_GrassWind_Inst_Winter.uasset" 226
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Winter/Without_VertexColors/M_LowPoly_Inst_Winter.uasset" 227
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Winter/Without_VertexColors/M_LowPoly_TreesWind_Inst_Winter.uasset" 228
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Textures/T_Colorlookup_Vertexcolors_Summer.uasset" 229
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Master_Materials/With_VertexColors_ForVariation/M_Master_LowPoly_VertCol_GrassWind.uasset" 230
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Textures/T_Colorlookup_Vertcolors_Winter.uasset" 231
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Winter/With_VertexColors_ForVariation/M_LowPoly_VertCol_GrassWind_Inst_Winter.uasset" 232
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Master_Materials/With_VertexColors_ForVariation/M_Master_LowPoly_VertCol.uasset" 233
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Winter/With_VertexColors_ForVariation/M_LowPoly_VertCol_Inst_Winter.uasset" 234
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Master_Materials/With_VertexColors_ForVariation/M_Master_LowPoly_VertCol_TreesWind.uasset" 235
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Winter/With_VertexColors_ForVariation/M_LowPoly_VertCol_TreesWind_Inst_Winter.uasset" 236
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Master_Materials/Snow/M_Master_LowPoly_Snow_WithVertColors.uasset" 237
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Winter/Snow/M_LowPoly_Snow_Inst_Winter.uasset" 238
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Rock_meshes/Large/SM_Rock_L_01_Snow.uasset" 239
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Rock_meshes/Large/SM_Rock_L_02_Snow.uasset" 240
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Rock_meshes/Large/SM_Rock_L_03_Snow.uasset" 241
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Summer/With_VertexColors_ForVariation/M_LowPoly_VertCol_Inst_Summer.uasset" 242
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Rock_meshes/Medium/SM_Rock_M_01.uasset" 243
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Rock_meshes/Medium/SM_Rock_M_01_Snow.uasset" 244
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Rock_meshes/Medium/SM_Rock_M_02_Snow.uasset" 245
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Rock_meshes/Medium/SM_Rock_M_03.uasset" 246
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Rock_meshes/Medium/SM_Rock_M_03_Snow.uasset" 247
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Rock_meshes/Small/SM_Rock_S_01_Snow.uasset" 248
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Rock_meshes/Small/SM_Rock_S_02.uasset" 249
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Rock_meshes/Small/SM_Rock_S_02_Snow.uasset" 250
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Rock_meshes/Small/SM_Rock_S_03.uasset" 251
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Rock_meshes/Small/SM_Rock_S_03_Snow.uasset" 252
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Fall/With_VertexColors_ForVariation/M_LowPoly_VertCol_TreesWind_Inst_Fall.uasset" 253
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Birch_Meshes/SM_Birch_01_Fall.uasset" 254
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Birch/SM_Birch_01_FoliageType_Fall.uasset" 255
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Birch_Meshes/SM_Birch_01_Snow.uasset" 256
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Birch/SM_Birch_01_FoliageType_Snow.uasset" 257
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Textures/T_Colorlookup_Vertcolors_Spring.uasset" 258
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Spring/With_VertexColors_ForVariation/M_LowPoly_VertCol_TreesWind_Inst_Spring.uasset" 259
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Birch_Meshes/SM_Birch_01_Spring.uasset" 260
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Birch/SM_Birch_01_FoliageType_Spring.uasset" 261
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Summer/With_VertexColors_ForVariation/M_LowPoly_VertCol_TreesWind_Inst_Summer.uasset" 262
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Birch_Meshes/SM_Birch_01_Summer.uasset" 263
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Birch/SM_Birch_01_FoliageType_Summer.uasset" 264
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Birch_Meshes/SM_Birch_02_Spring.uasset" 265
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Birch/SM_Birch_02_FoliageType_2_Spring.uasset" 266
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Birch_Meshes/SM_Birch_02_Fall.uasset" 267
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Birch/SM_Birch_02_FoliageType_Fall.uasset" 268
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Birch_Meshes/SM_Birch_02_Snow.uasset" 269
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Birch/SM_Birch_02_FoliageType_Snow.uasset" 270
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Birch_Meshes/SM_Birch_02_Summer.uasset" 271
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Birch/SM_Birch_02_FoliageType_Summer.uasset" 272
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Birch_Meshes/SM_Birch_03_Fall.uasset" 273
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Birch/SM_Birch_03_FoliageType_Fall.uasset" 274
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Birch_Meshes/SM_Birch_03_Snow.uasset" 275
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Birch/SM_Birch_03_FoliageType_Snow.uasset" 276
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Birch_Meshes/SM_Birch_03_Summer.uasset" 277
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Birch/SM_Birch_03_FoliageType_Summer.uasset" 278
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Birch_Meshes/SM_Birch_03_Spring.uasset" 279
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Birch/SM_Birch_03_FoliageType__Spring.uasset" 280
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Bush_Meshes/SM_Bush_01_Fall.uasset" 281
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Bush/SM_Bush_01_FoliageType_Fall.uasset" 282
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Bush_Meshes/SM_Bush_01_Snow.uasset" 283
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Bush/SM_Bush_01_FoliageType_Snow.uasset" 284
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Bush_Meshes/SM_Bush_01_Spring.uasset" 285
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Bush/SM_Bush_01_FoliageType_Spring.uasset" 286
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Bush_Meshes/SM_Bush_01_Summer.uasset" 287
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Bush/SM_Bush_01_FoliageType_Summer.uasset" 288
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Bush_Meshes/SM_Bush_02_Fall.uasset" 289
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Bush/SM_Bush_02_FoliageType_Fall.uasset" 290
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Bush_Meshes/SM_Bush_02_Snow.uasset" 291
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Bush/SM_Bush_02_FoliageType_Snow.uasset" 292
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Bush_Meshes/SM_Bush_02_Spring.uasset" 293
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Bush/SM_Bush_02_FoliageType_Spring.uasset" 294
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Bush_Meshes/SM_Bush_02_Summer.uasset" 295
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Bush/SM_Bush_02_FoliageType_Summer.uasset" 296
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Bush_Meshes/SM_Bush_03_Fall.uasset" 297
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Bush/SM_Bush_03_FoliageType_Fall.uasset" 298
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Bush_Meshes/SM_Bush_03_Snow.uasset" 299
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Bush/SM_Bush_03_FoliageType_Snow.uasset" 300
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Bush_Meshes/SM_Bush_03_Spring.uasset" 301
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Bush/SM_Bush_03_FoliageType_Spring.uasset" 302
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Bush_Meshes/SM_Bush_03_Summer.uasset" 303
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Bush/SM_Bush_03_FoliageType_Summer.uasset" 304
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Fern_Meshes/SM_Fern_01_Fall.uasset" 305
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Fern/SM_Fern_01_FoliageType_Fall.uasset" 306
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Fern_Meshes/SM_Fern_01_Snow.uasset" 307
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Fern/SM_Fern_01_FoliageType_Snow.uasset" 308
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Spring/With_VertexColors_ForVariation/M_LowPoly_VertCol_GrassWind_Inst_Spring.uasset" 309
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Fern_Meshes/SM_Fern_01_Spring.uasset" 310
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Fern/SM_Fern_01_FoliageType_Spring.uasset" 311
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Fern_Meshes/SM_Fern_01_Summer.uasset" 312
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Fern/SM_Fern_01_FoliageType_Summer.uasset" 313
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Fern_Meshes/SM_Fern_02_Fall.uasset" 314
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Fern/SM_Fern_02_FoliageType_Fall.uasset" 315
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Fern_Meshes/SM_Fern_02_Snow.uasset" 316
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Fern/SM_Fern_02_FoliageType_Snow.uasset" 317
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Fern_Meshes/SM_Fern_02_Spring.uasset" 318
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Fern/SM_Fern_02_FoliageType_Spring.uasset" 319
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Fern_Meshes/SM_Fern_02_Summer.uasset" 320
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Fern/SM_Fern_02_FoliageType_Summer.uasset" 321
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Fir_Meshes/SM_Fir_01_Fall.uasset" 322
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Fir/SM_Fir_01_FoliageType_Fall.uasset" 323
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Fir_Meshes/SM_Fir_01_Snow.uasset" 324
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Fir/SM_Fir_01_FoliageType_Snow.uasset" 325
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Fir_Meshes/SM_Fir_01_Spring.uasset" 326
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Fir/SM_Fir_01_FoliageType_Spring.uasset" 327
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Fir_Meshes/SM_Fir_01_Summer.uasset" 328
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Fir/SM_Fir_01_FoliageType_Summer.uasset" 329
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Fir_Meshes/SM_Fir_02_Fall.uasset" 330
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Fir/SM_Fir_02_FoliageType_Fall.uasset" 331
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Fir_Meshes/SM_Fir_02_Snow.uasset" 332
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Fir/SM_Fir_02_FoliageType_Snow.uasset" 333
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Fir_Meshes/SM_Fir_02_Spring.uasset" 334
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Fir/SM_Fir_02_FoliageType_Spring.uasset" 335
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Fir_Meshes/SM_Fir_02_Summer.uasset" 336
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Fir/SM_Fir_02_FoliageType_Summer.uasset" 337
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Fir_Meshes/SM_Fir_03_Fall.uasset" 338
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Fir/SM_Fir_03_FoliageType_Fall.uasset" 339
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Fir_Meshes/SM_Fir_03_Snow.uasset" 340
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Fir/SM_Fir_03_FoliageType_Snow.uasset" 341
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Fir_Meshes/SM_Fir_03_Spring.uasset" 342
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Fir/SM_Fir_03_FoliageType_Spring.uasset" 343
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Fir_Meshes/SM_Fir_03_Summer.uasset" 344
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Fir/SM_Fir_03_FoliageType_Summer.uasset" 345
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Fall/With_VertexColors_ForVariation/M_LowPoly_VertCol_GrassWind_Inst_Fall.uasset" 346
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Grass_Meshes/SM__Grass_01_Fall.uasset" 347
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Grass/SM_Grass_01_FoliageType_Fall.uasset" 348
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Grass_Meshes/SM__Grass_01_Spring.uasset" 349
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Grass/SM_Grass_01_FoliageType_Spring.uasset" 350
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Summer/With_VertexColors_ForVariation/M_LowPoly_VertCol_GrassWind_Inst_Summer.uasset" 351
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Grass_Meshes/SM__Grass_01_Summer.uasset" 352
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Grass/SM_Grass_01_FoliageType_Summer.uasset" 353
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Grass/SM_Grass_01_FoliageType_Winter.uasset" 354
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Grass_Meshes/SM__Grass_02_Fall.uasset" 355
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Grass/SM_Grass_02_FoliageType_Fall.uasset" 356
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Grass_Meshes/SM__Grass_02_Spring.uasset" 357
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Grass/SM_Grass_02_FoliageType_Spring.uasset" 358
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Grass_Meshes/SM__Grass_02_Summer.uasset" 359
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Grass/SM_Grass_02_FoliageType_Summer.uasset" 360
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Grass/SM_Grass_02_FoliageType_Winter.uasset" 361
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Grass_Meshes/SM__Grass_03_Fall.uasset" 362
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Grass/SM_Grass_03_FoliageType_Fall.uasset" 363
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Grass_Meshes/SM__Grass_03_Spring.uasset" 364
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Grass/SM_Grass_03_FoliageType_Spring.uasset" 365
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Grass_Meshes/SM__Grass_03_Summer.uasset" 366
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Grass/SM_Grass_03_FoliageType_Summer.uasset" 367
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Grass/SM_Grass_03_FoliageType_Winter.uasset" 368
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Oak_Meshes/SM_Oak_01_Fall.uasset" 369
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Oak/SM_Oak_01_FoliageType_Fall.uasset" 370
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Oak_Meshes/SM_Oak_01_Snow.uasset" 371
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Oak/SM_Oak_01_FoliageType_Snow.uasset" 372
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Oak_Meshes/SM_Oak_01_Spring.uasset" 373
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Oak/SM_Oak_01_FoliageType_Spring.uasset" 374
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Oak_Meshes/SM_Oak_01_Summer.uasset" 375
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Oak/SM_Oak_01_FoliageType_Summer.uasset" 376
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Oak_Meshes/SM_Oak_02_Fall.uasset" 377
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Oak/SM_Oak_02_FoliageType_Fall.uasset" 378
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Oak_Meshes/SM_Oak_02_Snow.uasset" 379
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Oak/SM_Oak_02_FoliageType_Snow.uasset" 380
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Oak_Meshes/SM_Oak_02_Spring.uasset" 381
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Oak/SM_Oak_02_FoliageType_Spring.uasset" 382
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Oak_Meshes/SM_Oak_02_Summer.uasset" 383
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Oak/SM_Oak_02_FoliageType_Summer.uasset" 384
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Oak_Meshes/SM_Oak_03_Fall.uasset" 385
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Oak/SM_Oak_03_FoliageType_Fall.uasset" 386
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Oak_Meshes/SM_Oak_03_Snow.uasset" 387
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Oak/SM_Oak_03_FoliageType_Snow.uasset" 388
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Oak_Meshes/SM_Oak_03_Spring.uasset" 389
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Oak/SM_Oak_03_FoliageType_Spring.uasset" 390
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Oak_Meshes/SM_Oak_03_Summer.uasset" 391
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Oak/SM_Oak_03_FoliageType_Summer.uasset" 392
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Willow_Meshes/SM_Willow_01_Fall.uasset" 393
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Willow/SM_Willow_01_FoliageType_Fall.uasset" 394
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Willow_Meshes/SM_Willow_01_Snow.uasset" 395
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Willow/SM_Willow_01_FoliageType_Snow.uasset" 396
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Willow_Meshes/SM_Willow_01_Spring.uasset" 397
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Willow/SM_Willow_01_FoliageType_Spring.uasset" 398
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Willow_Meshes/SM_Willow_01_Summer.uasset" 399
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Willow/SM_Willow_01_FoliageType_Summer.uasset" 400
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Willow_Meshes/SM_Willow_02_Fall.uasset" 401
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Willow/SM_Willow_02_FoliageType_Fall.uasset" 402
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Willow_Meshes/SM_Willow_02_Snow.uasset" 403
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Willow/SM_Willow_02_FoliageType_Snow.uasset" 404
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Willow_Meshes/SM_Willow_02_Spring.uasset" 405
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Willow/SM_Willow_02_FoliageType_Spring.uasset" 406
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Willow_Meshes/SM_Willow_02_Summer.uasset" 407
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Willow/SM_Willow_02_FoliageType_Summer.uasset" 408
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Lavender/SM_Lavender_01.uasset" 409
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Lavender/SM_Lavender_01_Snow.uasset" 410
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Lavender/SM_Lavender_02.uasset" 411
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Lavender/SM_Lavender_02_Snow.uasset" 412
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Lavender/SM_Lavender_03.uasset" 413
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Mushroom_Meshes/Brown_Mushrooms/SM_Mushroom_Brown_01.uasset" 414
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Mushroom_Meshes/Brown_Mushrooms/SM_Mushroom_Brown_02.uasset" 415
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Mushroom_Meshes/Brown_Mushrooms/SM_Mushroom_Brown_03.uasset" 416
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Mushroom_Meshes/Brown_Mushrooms/SM_Mushroom_Brown_04.uasset" 417
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Mushroom_Meshes/Brown_Mushrooms/SM_Mushroom_Brown_05.uasset" 418
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Mushroom_Meshes/Clinging_Mushrooms/SM_Clinging_Mushroom_01.uasset" 419
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Mushroom_Meshes/Clinging_Mushrooms/SM_Clinging_Mushroom_02.uasset" 420
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Mushroom_Meshes/Clinging_Mushrooms/SM_Clinging_Mushroom_03.uasset" 421
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Mushroom_Meshes/Red_Mushrooms/SM_Mushroom_Red_01.uasset" 422
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Mushroom_Meshes/Red_Mushrooms/SM_Mushroom_Red_02.uasset" 423
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Mushroom_Meshes/Red_Mushrooms/SM_Mushroom_Red_03.uasset" 424
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Fall/With_VertexColors_ForVariation/M_LowPoly_VertCol_Inst_Fall.uasset" 425
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Shrub_Meshes/SM_Shrub_01_Fall.uasset" 426
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Shrub_Meshes/SM_Shrub_01_Snow.uasset" 427
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Materials/Instances/Spring/With_VertexColors_ForVariation/M_LowPoly_VertCol_Inst_Spring.uasset" 428
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Shrub_Meshes/SM_Shrub_01_Spring.uasset" 429
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Shrub_Meshes/SM_Shrub_01_Summer.uasset" 430
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Shrub_Meshes/SM_Shrub_02_Fall.uasset" 431
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Shrub_Meshes/SM_Shrub_02_Snow.uasset" 432
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Shrub_Meshes/SM_Shrub_02_Spring.uasset" 433
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Shrub_Meshes/SM_Shrub_02_Summer.uasset" 434
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Stick_Meshes/SM_Stick_01.uasset" 435
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Treestump_Meshes/SM_Stump_01.uasset" 436
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Treestump_Meshes/SM_Stump_01_Snow.uasset" 437
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Treestump_Meshes/SM_Stump_02.uasset" 438
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Treestump_Meshes/SM_Stump_02_Snow.uasset" 439
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Tree_Trunk_Meshes/SM_Treetrunk_01_Snow.uasset" 440
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Tree_Trunk_Meshes/SM_Treetrunk_02_Snow.uasset" 441
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Textures/WaveTexture.uasset" 442
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/Water/WaterMAT.uasset" 443
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/Water/Presets/SpringWater/SpringWaterOpaqueINST.uasset" 444
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Meshes/WaterPlane/Calm/CalmLargePlane.uasset" 445
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/Water/Presets/SaltWater/CleanSaltWaterOpaqueINST.uasset" 446
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Meshes/WaterPlane/Dense/DenseLargePlane.uasset" 447
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Meshes/WaterPlane/Dense/DenseSmallPlane.uasset" 448
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset" 449
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset" 450
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset" 451
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/SideScrollerBP/Meshes/CubeMaterial.uasset" 452
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/SideScrollerBP/Meshes/Ramp_Mesh.uasset" 453
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Sound/Music/CarpetFusion_-_Dream_Realm_V1.uasset" 454
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Sound/Music/Blueprints/SP_Music_Manager.uasset" 455
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Sound/Music/Blueprints/BP_Music_Manager.uasset" 456
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Sound/Music/Blueprints/SP_Music_Manager_Mat.uasset" 457
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/_UI/UI_CharSelect.uasset" 458
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 459
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 460
+"../../../Engine/Content/BasicShapes/Cone.uasset" 461
+"../../../Engine/Content/BasicShapes/Plane.uasset" 462
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 463
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 464
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 465
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 466
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 467
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 468
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 469
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 470
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 471
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 472
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 473
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 474
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 475
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 476
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 477
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 478
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 479
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 480
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 481
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 482
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 483
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 484
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 485
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 486
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 487
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 488
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 489
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 490
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 491
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 492
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 493
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 494
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 495
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 496
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 497
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 498
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 499
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 500
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 501
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 502
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 503
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 504
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 505
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 506
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 507
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 508
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 509
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 510
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 511
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 512
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 513
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 514
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 515
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 516
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 517
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 518
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 519
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 520
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 521
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 522
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 523
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 524
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 525
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 526
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 527
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 528
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 529
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 530
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 531
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 532
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 533
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 534
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 535
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 536
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 537
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 538
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 539
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 540
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 541
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 542
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 543
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 544
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 545
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 546
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 547
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 548
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 549
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 550
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 551
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 552
+"../../../Engine/Content/EngineResources/Black.uasset" 553
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 554
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 555
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 556
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 557
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 558
+"../../../Engine/Content/EngineSounds/Master.uasset" 559
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 560
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 561
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 562
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 563
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 564
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 565
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 566
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 567
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 568
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 569
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 570
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 571
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 572
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 573
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 574
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 575
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 576
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 577
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 578
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 579
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 580
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 581
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 582
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 583
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 584
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 585
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 586
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 587
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Class.uasset" 588
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 589
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 590
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 591
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 592
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 593
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 594
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 595
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 596
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 597
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 598
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 599
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 600
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 601
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 602
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 603
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 604
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 605
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 606
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 607
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 608
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 609
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 610
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 611
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 612
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 613
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 614
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 615
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 616
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 617
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 618
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 619
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 620
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Attack_01_L.uasset" 621
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Attack_01_R.uasset" 622
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Block_End.uasset" 623
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Block_Idle.uasset" 624
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Block_Idle_Break.uasset" 625
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Block_ReactBack.uasset" 626
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Block_ReactFront.uasset" 627
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Block_Start.uasset" 628
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Death_01.uasset" 629
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Eating.uasset" 630
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Sit_Idle.uasset" 631
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Walk_Backwards.uasset" 632
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Animations/Walk_Forward.uasset" 633
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 634
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 635
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 636
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 637
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 638
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 639
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 640
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 641
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 642
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Maps/Overview_BuiltData.uasset" 643
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Textures/T_Crab_02_BC.uasset" 644
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Textures/T_Crab_02_N.uasset" 645
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Textures/T_Crab_02_ORM.uasset" 646
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Materials/MI_Crab_02.uasset" 647
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Textures/T_Crab_03_BC.uasset" 648
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Textures/T_Crab_03_N.uasset" 649
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Textures/T_Crab_03_ORM.uasset" 650
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Materials/MI_Crab_03.uasset" 651
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Textures/T_Crab_04_BC.uasset" 652
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Textures/T_Crab_04_N.uasset" 653
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Textures/T_Crab_04_ORM.uasset" 654
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Materials/MI_Crab_04.uasset" 655
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Textures/T_Crab_05_BC.uasset" 656
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Textures/T_Crab_05_N.uasset" 657
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Textures/T_Crab_05_ORM.uasset" 658
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Materials/MI_Crab_05.uasset" 659
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 660
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/CrabAnim/Maps/Overview.umap" 661
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Maps/WaterDemoLevel_BuiltData.uasset" 662
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/FlatDiffuses/FlatDiffuseMAT.uasset" 663
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/FlatDiffuses/Instances/BlackMatteINST.uasset" 664
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/FlatDiffuses/Instances/BlueMatteINST.uasset" 665
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/FlatDiffuses/Instances/BrownMatteINST.uasset" 666
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/FlatDiffuses/Instances/DarkBlueMatteINST.uasset" 667
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/FlatDiffuses/Instances/DarkBrown2MatteINST.uasset" 668
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/FlatDiffuses/Instances/DarkBrownMatteINST.uasset" 669
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/FlatDiffuses/Instances/DarkGreenSatinINST.uasset" 670
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/FlatDiffuses/Instances/DarkGreyMatteINST.uasset" 671
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/FlatDiffuses/Instances/GreenMatteINST.uasset" 672
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/FlatDiffuses/Instances/GreenSatinINST.uasset" 673
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/FlatDiffuses/Instances/OrangeGlossINST.uasset" 674
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/FlatDiffuses/Instances/PinkMatteINST.uasset" 675
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/FlatDiffuses/Instances/PinkRichMatteINST.uasset" 676
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/FlatDiffuses/Instances/RedMatteINST.uasset" 677
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/FlatDiffuses/Instances/Sand1INST.uasset" 678
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/FlatDiffuses/Instances/SilverGlossINST.uasset" 679
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/FlatDiffuses/Instances/WhiteMatteINST.uasset" 680
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/Water/Presets/SaltWater/CleanSaltWaterTransparentINST.uasset" 681
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/Water/StaticWaterMAT.uasset" 682
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/Water/Presets/SaltWater/StaticCleanSaltWaterOpaqueINST.uasset" 683
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/Water/Presets/SaltWater/StaticCleanSaltWaterTransparentINST.uasset" 684
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Textures/WaterNormal.uasset" 685
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/Water/SuperCheapWaterMAT.uasset" 686
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/Water/Presets/SaltWater/SuperCheapCleanSaltWaterINST.uasset" 687
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/Water/Presets/SpringWater/SpringWaterTransparentINST.uasset" 688
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/Water/Presets/SpringWater/StaticSpringWaterOpaqueINST.uasset" 689
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/Water/Presets/SpringWater/StaticSpringWaterTransparentINST.uasset" 690
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/Water/Presets/SpringWater/SuperCheapSpringWaterOpaqueINST.uasset" 691
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 692
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 693
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Meshes/Beach/IceCreamBannerStand/IceCreamBanner.uasset" 694
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Meshes/Beach/IceCreamStand/IceCreamStand.uasset" 695
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Meshes/Beach/Lifebuoy/LifeBuoy.uasset" 696
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Meshes/Beach/PalmTree/PalmTree.uasset" 697
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Meshes/Beach/Parasol/Parasol.uasset" 698
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Meshes/Beach/Sand/Beach.uasset" 699
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Materials/FlatDiffuses/Instances/Sand2INST.uasset" 700
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Meshes/Beach/SandCastle/SandCastle.uasset" 701
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Meshes/Beach/Towel/Towel.uasset" 702
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Meshes/Forest/Floor/ForestFloor.uasset" 703
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Meshes/Forest/Rock/Rock.uasset" 704
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Meshes/Forest/Trees/ChristmasTree.uasset" 705
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Meshes/WaterPlane/Calm/CalmMediumPlane.uasset" 706
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Meshes/WaterPlane/Dense/DenseMediumPlane.uasset" 707
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Meshes/WaterPlane/Flat4x4m.uasset" 708
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyWater/Maps/WaterDemoLevel.umap" 709
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/SideScrollerBP/Blueprints/CodyTest_SideScrollerGameMode.uasset" 710
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_Dirt/T_GenericBrownDirt_basecolor.uasset" 711
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_Dirt/T_GenericBrownDirt_height.uasset" 712
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_Dirt/T_GenericBrownDirt_mrao.uasset" 713
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Ground_Dirt/T_GenericBrownDirt_normal.uasset" 714
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Ground_Dirt_Inst.uasset" 715
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_BrushedCopper/T_BrushedCopperMetal_basecolor.uasset" 716
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_BrushedCopper/T_BrushedCopperMetal_height.uasset" 717
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_BrushedCopper/T_BrushedCopperMetal_mrao.uasset" 718
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Metal_BrushedCopper/T_BrushedCopperMetal_normal.uasset" 719
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Metal_BrushedCopper_Inst.uasset" 720
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Rock_HoneycombAsteroid/T_HoneyCombAsteroidRock_basecolor.uasset" 721
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Rock_HoneycombAsteroid/T_HoneyCombAsteroidRock_height.uasset" 722
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Rock_HoneycombAsteroid/T_HoneyCombAsteroidRock_mrao.uasset" 723
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/Rock_HoneycombAsteroid/T_HoneyCombAsteroidRock_normal.uasset" 724
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_Rock_JaggedCaveWall_Inst.uasset" 725
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Geometry/Meshes/TemplateFloor.uasset" 726
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/SideScrollerBP/Maps/CodyTest_SideScrollerExampleMap.umap" 727
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Interactables/Portal/T_portal_destination.uasset" 728
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Interactables/Portal/BP_PortalDestination.uasset" 729
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/misc_WoodenCrate/T_StylizedWoodenCrate_basecolor.uasset" 730
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/misc_WoodenCrate/T_StylizedWoodenCrate_height.uasset" 731
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/misc_WoodenCrate/T_StylizedWoodenCrate_mrao.uasset" 732
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Bitmaps/misc_WoodenCrate/T_StylizedWoodenCrate_normal.uasset" 733
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/M_misc_WoodenCrate_Inst.uasset" 734
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Interactables/BP_Door.uasset" 735
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Interactables/BP_EndGameTrigger.uasset" 736
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Sound/minecraft_xp_orb_sound.uasset" 737
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Interactables/BP_Interactive_Wind_Chimes.uasset" 738
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Interactables/BP_KillTrigger.uasset" 739
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Interactables/Enums/RotationAxis.uasset" 740
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Sound/hl2_platform_stop.uasset" 741
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Sound/hl2_platformmove.uasset" 742
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Interactables/BP_RotatingPlatform.uasset" 743
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Interactables/Portal/Mat_Portal.uasset" 744
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/Interactables/Portal/BP_Portal.uasset" 745
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Grass_IM.uasset" 746
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Rock_meshes/Medium/SM_Rock_M_02.uasset" 747
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Rock_IM.uasset" 748
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Rock_meshes/Small/SM_Rock_S_01.uasset" 749
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/RockSmall_IM.uasset" 750
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Stick_Meshes/SM_Stick_03.uasset" 751
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Stick_IM.uasset" 752
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 753
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Background_inst.uasset" 754
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/External_Assets/Materials/Background_wall_inst.uasset" 755
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Rock_meshes/Large/SM_Rock_L_01.uasset" 756
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Rock_meshes/Large/SM_Rock_L_02.uasset" 757
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Rock_meshes/Large/SM_Rock_L_03.uasset" 758
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Lavender/SM_Lavender_03_Snow.uasset" 759
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Stick_Meshes/SM_Stick_02.uasset" 760
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Tree_Trunk_Meshes/SM_Treetrunk_01.uasset" 761
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/LowPolyForestPack/Meshes/Understory_Meshes/Tree_Trunk_Meshes/SM_Treetrunk_02.uasset" 762
+"C:/Users/Cheyenne/Documents/Unreal Projects/moga/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" 763
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 764
+"../../../Engine/Content/Maps/Entry.umap" 765
